@@ -1,5 +1,5 @@
 [package]
-name = "attestation-server"
+name = "test-enclave-ring"
 version = "0.1.0"
 authors = ["LKatalin"]
 edition = "2018"
